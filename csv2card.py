@@ -3,8 +3,14 @@ import sys, os
 import csv
 
 # WIP! Does not work yet!
+print("I need three paths from you:")
 csvPath = input("Please enter path of CSV file:\n")
 imgModulePath = input("Please enter path to 'wkhtmltoimg' executable:\n")
+outputPath = input("Please enter the name of an existing directory where cards can be saved:\n")
+options = {
+    'width':666,
+        'encoding': 'UTF-8'
+}
 csvFile = open(csvPath, "r", encoding="utf-8")
 csvReader = csv.reader(csvFile, delimiter=";")
 def validate_csv(csvReader):
