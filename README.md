@@ -29,7 +29,14 @@ Record your ideas digitally and then print out idea cards you can cluster into s
     - `statement`: the idea itself
   
   - Source details should contain a URI for the source (URL, book title, etc). 
-    - [Example](sources.txt)
+    ```txt
+    ideastackr
+      https://github.com/BrianInGermany/IdeaStackr
+    brian
+      https://github.com/BrianInGermany
+    bible
+      https://www.bible.com/
+    ```
   - Caveat: do not use ";" (semicolons) in your data. Substitute them with some other symbol. 
 
 ### 2. Card generation
