@@ -39,7 +39,7 @@ idNum;infoType;source;page;topic;statement
 ### 3. Card clustering
 
 - Create a coordinate system on your desk with 1, 2, 3, 4 on one axis and A, B, C, D, E on the other. Make it big enough to put one note card in each cell.
-- Cluster like note cards to like note cards. Once two or three cards are in one stack, name the stack. Write down its name on this chart (pdf link):
+- Cluster like note cards to like note cards. Once two or three cards are in one stack, name the stack. Write down its name on this chart ([pdf link](categoryTable.pdf)):
 
   [<img src="categoryTable.png" alt="chartPicture" width="300"/>](categoryTable.pdf)
 
