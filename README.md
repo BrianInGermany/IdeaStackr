@@ -65,14 +65,15 @@
 ### 6. Composition
 
 - The final step of the framework is to weave your superstacks, stacks and cards into a new composition. 
-- Put the heap of ordered stacks and superstacks on your desk, and integrate the cards' contents one by one.
+- Use ordered superstacks and stacks to write table of contents.
+- Put the heap of ordered stacks and superstacks on your desk, and integrate the cards' contents one by one into your paper, presentation or speech.
 
 
 ## Background: Excerpting
 
 The system behind IdeaStackr is called excerpting (German: *Exzerpieren*)
 
-[![](exzerpiren.jpg)][1]
+  [![](exzerpiren.jpg)][1]
 
 - [Definition: Exzerpieren](https://www.uni-erfurt.de/seminarfach/kurs/9/#c67025), Uni Erfurt
 - [Leitfaden zur Erstellung eines Exzerpts](https://www.uni-bielefeld.de/erziehungswissenschaft//scs/pdf/leitfaeden/studierende/exzerpt.pdf), Uni Bielefeld
