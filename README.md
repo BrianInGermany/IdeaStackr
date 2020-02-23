@@ -32,7 +32,7 @@ idNum;infoType;source;page;topic;statement
   - Also, you need to install [`wkhtmltopdf`](https://wkhtmltopdf.org/index.html), which is a dependency for [`imgkit`](https://pypi.org/project/imgkit/)
     - Get it [here](https://wkhtmltopdf.org/downloads.html)
 
-- Use your printer to generate paper cards from the images (A6 format works best).
+- Use your printer to make paper cards from the images (A6 format works best).
 
 ### 3. Card clustering
 
