@@ -27,6 +27,8 @@ idNum;infoType;source;page;topic;statement
 
 - Create idea card jpegs with [card generation script](csv2card.py)
 
+  <img src="cardExample.png" alt="cardPicture" width="300"/>
+
   - First, install [`imgkit`](https://pypi.org/project/imgkit/):
     - `pip install imgkit`
   - Also, you need to install [`wkhtmltopdf`](https://wkhtmltopdf.org/index.html), which is a dependency for [`imgkit`](https://pypi.org/project/imgkit/)
