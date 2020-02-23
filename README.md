@@ -1,6 +1,10 @@
 # IdeaStackr: a framework for organizing and structuring information
 
-## Steps of the IdeaStackr framework:
+## Purpose:
+
+IdeaStackr uses idea clustering to bring structure to your research data and keep track of what ideas you found where. 
+
+## Steps:
 
 ### 1. Data collection
 
@@ -21,7 +25,9 @@
     - `topic`: brief summary of idea
     - `statement`: the idea itself
   
-  - Caveat: do not use ";" (semicolons) in your data. Substitute them with some other symbol.
+  - Source details should contain a URI for the source (URL, book title, etc).
+    - See [here](sources.txt) for an example
+  - Caveat: do not use ";" (semicolons) in your data. Substitute them with some other symbol. 
 
 ### 2. Card generation
 
