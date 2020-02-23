@@ -28,7 +28,7 @@ Record your ideas digitally and then print out idea cards you can cluster into s
     - `topic`: brief summary of idea
     - `statement`: the idea itself
   
-  - Source details should contain a URI for the source (URL, book title, etc). 
+  - Source details should contain the name/nickname used in the csv and a URI for the source (URL, book title, etc):
     ```txt
     ideastackr
       https://github.com/BrianInGermany/IdeaStackr
