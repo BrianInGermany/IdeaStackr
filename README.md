@@ -4,24 +4,24 @@
 
 ### 1. Data collection
 
-Collect raw information in this CSV format:
+- Collect raw information in this CSV format:
 
-```csv
-idNum;infoType;source;page;topic;statement
-1;o;a great book;22;Excerpt Cards;Excerpt Cards are a great way to keep track of ideas by recording source and info type for each thought you have while gathering information.
-2;q;Brian;23;Cards can be declared as 'q', 'o' or 'p'.;Declaring info type can be useful for citing works later. Q is for quote, O for my opinion, and P for paraphrase.
-3;p;The Bible;456;Paraphrase example;Treat others like you want to be treated.
-```
-- Fields:
+  ```csv
+  idNum;infoType;source;page;topic;statement
+  1;o;a great book;22;Excerpt Cards;Excerpt Cards are a great way to keep track of ideas by recording source and info type for each thought you have while gathering information.
+  2;q;Brian;23;Cards can be declared as 'q', 'o' or 'p'.;Declaring info type can be useful for citing works later. Q is for quote, O for my opinion, and P for paraphrase.
+  3;p;The Bible;456;Paraphrase example;Treat others like you want to be treated.
+  ```
+  - Fields:
 
-  - `idNum`: unique index number for card
-  - `infoType`: "q" for quote, "p" for paraphrase, or "o" for personal opinion
-  - `source`: unique name/nickname you have source details saved under (wherever)
-  - `page`: page number in source (0 for without pages i.e. website)
-  - `topic`: brief summary of idea
-  - `statement`: the idea itself
+    - `idNum`: unique index number for card
+    - `infoType`: "q" for quote, "p" for paraphrase, or "o" for personal opinion
+    - `source`: unique name/nickname you have source details saved under (wherever)
+    - `page`: page number in source (0 for without pages i.e. website)
+    - `topic`: brief summary of idea
+    - `statement`: the idea itself
   
-- Caveat: do not use ";" (semicolons) in your data. Substitute them with some other symbol.
+  - Caveat: do not use ";" (semicolons) in your data. Substitute them with some other symbol.
 
 ### 2. Card generation
 
@@ -62,7 +62,7 @@ idNum;infoType;source;page;topic;statement
 - You should now have one big heap of cards containing ordered superstacks which contain ordered stacks which contain individual cards.
 - This is your table of contents!
 
-### 6. Composing
+### 6. Composition
 
 - The final step of the framework is to weave your superstacks, stacks and cards into a new composition. 
 - Put the heap of ordered stacks and superstacks on your desk, and integrate the cards' contents one by one.
