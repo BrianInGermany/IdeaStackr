@@ -32,8 +32,8 @@ idNum;infoType;source;page;topic;statement
     - Get it [here](https://wkhtmltopdf.org/downloads.html)
   - Sample output:
     
-      <img src="cardExample.png" alt="cardPicture" width="300"/>
-      
+      <img src="cardExample.png" alt="cardPicture" width="500"/>
+
 - Use your printer to make paper cards from the images (A6 format works best).
 
 ### 3. Card clustering
