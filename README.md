@@ -25,8 +25,8 @@ IdeaStackr uses idea clustering to bring structure to your research data and kee
     - `topic`: brief summary of idea
     - `statement`: the idea itself
   
-  - Source details should contain a URI for the source (URL, book title, etc).
-    - See [here](sources.txt) for an example
+  - Source details should contain a URI for the source (URL, book title, etc). 
+    - [Example](sources.txt)
   - Caveat: do not use ";" (semicolons) in your data. Substitute them with some other symbol. 
 
 ### 2. Card generation
