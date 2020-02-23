@@ -1,6 +1,6 @@
-# IdeaStackr: A framework for organizing and structuring information
+# IdeaStackr: a framework for organizing and structuring information
 
-## Steps of the IdeaStackr framework
+## Steps of the IdeaStackr framework:
 
 ### 1. Data collection
 
