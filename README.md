@@ -1,8 +1,6 @@
-# Excerpt Cards: A framework for organizing and keeping track of ideas!
+# IdeaStackr: A framework for organizing and keeping track of information
 
-<img src="cardExample.png" alt="sampleCard" width="500"/>
-
-## Steps of the Excerpt Cards framework
+## Steps of the IdeaStackr framework
 
 ### 1. Data collection
 
@@ -17,8 +15,8 @@ idNum;infoType;source;page;topic;statement
 
 ### 2. Card generation
 
-- Create card jpegs with [card generation script](csv2card.py)
-- Use your printer to generate note cards from the images (A6 format works best).
+- Create idea card jpegs with [card generation script](csv2card.py)
+- Use your printer to generate paper cards from the images (A6 format works best).
 
 ### 3. Card clustering
 
@@ -57,7 +55,7 @@ idNum;infoType;source;page;topic;statement
 
 ## Background: Excerpting
 
-The system behind Excerpt Cards is called excerpting (German: *Exzerpieren*)
+The system behind IdeaStackr is called excerpting (German: *Exzerpieren*)
 
 [![](exzerpiren.jpg)][1]
 
