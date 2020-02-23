@@ -1,7 +1,6 @@
-# excerptCards
-[![](exzerpiren.jpg)][1]
+# Excerpt Cards: a system for organizing ideas and keeping track of sources.
 
-Excerpt Cards: a system for organizing ideas and keeping track of sources.
+[![](exzerpiren.jpg)][1]
 
 Background information on excerpting information (German: "Exzerpieren"):
 
