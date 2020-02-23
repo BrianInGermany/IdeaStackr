@@ -17,6 +17,12 @@ idNum;infoType;source;page;topic;statement
 ### 2. Card generation
 
 - Create idea card jpegs with [card generation script](csv2card.py)
+
+  - First, install [`imgkit`](https://pypi.org/project/imgkit/):
+    - `pip install imgkit`
+  - Also, you need to install [`wkhtmltopdf`](https://wkhtmltopdf.org/index.html), which is a dependency for [`imgkit`](https://pypi.org/project/imgkit/)
+    - Get it [here](https://wkhtmltopdf.org/downloads.html)
+
 - Use your printer to generate paper cards from the images (A6 format works best).
 
 ### 3. Card clustering
