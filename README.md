@@ -1,8 +1,10 @@
 # IdeaStackr: a framework for organizing and structuring information
 
-## Purpose:
+## Description:
 
-IdeaStackr uses idea clustering to bring structure to your research data and keep track of what ideas you found where. 
+IdeaStackr uses idea clustering and source management to bring structure to your research data and keep track of what ideas you found where. 
+
+Record your ideas digitally and then print out idea cards you can cluster into stacks on your desk.
 
 ## Steps:
 
