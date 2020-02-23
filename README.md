@@ -1,4 +1,4 @@
-# IdeaStackr: A framework for organizing and keeping track of information
+# IdeaStackr: A framework for organizing and structuring information
 
 ## Steps of the IdeaStackr framework
 
@@ -39,18 +39,15 @@ idNum;infoType;source;page;topic;statement
 
 ### 5. Sequentialization
 
-- Put the named superstacks in a logical order. The resulting sequence of named superstacks represents the high-level structure of the information you collected. 
-- For each superstack, put its stacks in a logical order.
-- Optional: For each stack, put its cards in a logical order.
-- You should now have one big heap of cards containing ordered superstacks which contain named stacks which contain individual cards.
-- This is your table of contents.
+- For each superstack, put its stacks in a logical order. The resulting sequence represents the high-level structure of the information you collected. 
+- Optional: For each stack, put its cards in a logical order. This is your low-level structure.
+- You should now have one big heap of cards containing ordered superstacks which contain ordered stacks which contain individual cards.
+- This is your table of contents!
 
 ### 6. Composing
 
 - The final step of the framework is to weave your superstacks, stacks and cards into a new composition. 
-- Put the heap of ordered stacks and superstacks on your desks, and integrate the cards contents one by one.
-
-
+- Put the heap of ordered stacks and superstacks on your desk, and integrate the cards' contents one by one.
 
 
 ## Background: Excerpting
