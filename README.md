@@ -12,6 +12,7 @@ idNum;infoType;source;page;topic;statement
 2;q;Brian;23;Cards can be declared as 'q', 'o' or 'p'.;Declaring info type can be useful for citing works later. Q is for quote, O for my opinion, and P for paraphrase.
 3;p;The Bible;456;Paraphrase example;Treat others like you want to be treated.
 ```
+- Caveat: do not use ";" (semicolons) in your data. Substitute them with some other symbol.
 
 ### 2. Card generation
 
