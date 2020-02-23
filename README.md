@@ -14,9 +14,10 @@ Record your ideas digitally and then print out idea cards you can cluster into s
 
   ```csv
   idNum;infoType;source;page;topic;statement
-  1;o;a great book;22;Excerpt Cards;Excerpt Cards are a great way to keep track of ideas by recording source and info type for each thought you have while gathering information.
-  2;q;Brian;23;Cards can be declared as 'q', 'o' or 'p'.;Declaring info type can be useful for citing works later. Q is for quote, O for my opinion, and P for paraphrase.
-  3;p;The Bible;456;Paraphrase example;Treat others like you want to be treated.
+  1;o;ideastackr;22;IdeaStackr Idea Cards;Idea Cards are a great way to keep track of ideas by recording source and info type for each thought you have while gathering information.
+  2;q;brian;23;Cards can be declared as 'q', 'o' or 'p'.;Declaring info type can be useful for citing works later. Q is for quote, O for my opinion, and P for paraphrase.
+  3;p;bible;456;Paraphrase example;Treat others like you want to be treated.
+  4;p;brian;1;Another example;With these four examples you could try printing out the idea cards on an a4 page and cutting them, or printing directly to A6 or notecard format.
   ```
   - Fields:
 
