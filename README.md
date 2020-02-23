@@ -14,10 +14,10 @@ idNum;infoType;source;page;topic;statement
 ```
 - Fields:
 
-  - `idNum`: index number for card
+  - `idNum`: unique index number for card
   - `infoType`: "q" for quote, "p" for paraphrase, or "o" for personal opinion
-  - `source`: unique key you have source details saved under (wherever)
-  - `page`: page number in source (0 for no pages i.e. website)
+  - `source`: unique name/nickname you have source details saved under (wherever)
+  - `page`: page number in source (0 for without pages i.e. website)
   - `topic`: brief summary of idea
   - `statement`: the idea itself
   
