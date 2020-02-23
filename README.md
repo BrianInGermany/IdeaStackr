@@ -1,14 +1,69 @@
-# Excerpt Cards: organize and keep track of ideas!
+# Excerpt Cards: A framework for organizing and keeping track of ideas!
 
 <img src="cardExample.png" alt="sampleCard" width="500"/>
 
-The system behind Excerpt Cards is called **excerpting**
+## Steps of the Excerpt Cards framework
+
+### 1. Data collection
+
+Collect raw excerpt data in this CSV format:
+
+```csv
+idNum;infoType;source;page;topic;statement
+1;o;a great book;22;Excerpt Cards;Excerpt Cards are a great way to keep track of ideas by recording source and info type for each thought you have while gathering information.
+2;q;Brian;23;Cards can be declared as 'q', 'o' or 'p'.;Declaring info type can be useful for citing works later. Q is for quote, O for my opinion, and P for paraphrase.
+3;p;The Bible;456;Paraphrase example;Treat others like you want to be treated.
+```
+
+### 2. Card generation
+
+- Create card jpegs with card generation script
+- Use your printer to generate note cards from the images (A6 format works best).
+
+### 3. Card clustering
+
+- Create a coordinate system on your desk with 1, 2, 3, 4 on one axis and A, B, C, D, E on the other. Make it big enough to put one note card in each cell.
+- Cluster like note cards to like note cards. Once two or three cards are in one stack, name the stack. Write down its name on this chart:
+
+  [<img src="categoryTable.png" alt="chartPicture" width="300"/>](categoryTable.pdf)
+
+- **Rename stacks as often as you like!** The point is to have an appropriate name at the end. You may also want to merge or split stacks as you go.
+- When you are finished, you have stacks that represent the low-level structure of your information, like this:
+
+  <img src="clusterCards.jpg" alt="clusteredCards" width="500"/>
+
+### 4. Stack clustering
+
+- Once you have a set of named stacks on your table, label each stack with a post-it according to your names in the [chart](categoryTable.png).
+- Now we're going to cluster the clusters to create a structure for our research!
+- Repeat step 3. with a blank [chart](categoryTable.png), this time clustering stacks instead of individual cards and naming these superstacks instead of the stacks.
+
+
+### 5. Sequentialization
+
+- Put the named superstacks in a logical order. The resulting sequence of named superstacks represents the high-level structure of the information you collected. 
+- For each superstack, put its stacks in a logical order.
+- Optional: For each stack, put its cards in a logical order.
+- You should now have one big heap of cards containing ordered superstacks which contain named stacks which contain individual cards.
+- This is your table of contents.
+
+### 6. Composing
+
+- The final step of the framework is to weave your superstacks, stacks and cards into a new composition. 
+- Put the heap of ordered stacks and superstacks on your desks, and integrate the cards contents one by one.
+
+
+
+
+## Background: Excerpting
+
+The system behind Excerpt Cards is called excerpting (German: *Exzerpieren*)
 
 [![](exzerpiren.jpg)][1]
 
 - [Definition: Exzerpieren](https://www.uni-erfurt.de/seminarfach/kurs/9/#c67025), Uni Erfurt
 - [Leitfaden zur Erstellung eines Exzerpts](https://www.uni-bielefeld.de/erziehungswissenschaft//scs/pdf/leitfaeden/studierende/exzerpt.pdf), Uni Bielefeld
-- [How do I excerpt?](https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=907&token=57252036805e1227831a802f377dde1c13925dbc), Uni Kassel
+<!-- - [How do I excerpt?](https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=907&token=57252036805e1227831a802f377dde1c13925dbc), Uni Kassel -->
 <!-- - [Exzerpieren](https://www.europa-uni.de/de/struktur/zsfl/institutionen/schreibzentrum/angebote/lehrende/materialien/Exzerpieren.pdf), Europa-Uni Frankfurt (Oder)
 - [Leitfaden: Ein Exzerpt erstllen](https://mentoren.philol.uni-leipzig.de/fileadmin/mentoren.philol.uni-leipzig.de/uploads/dokumente/Leitfaden_Exzerpt_01.pdf), Uni Leipzig -->
 
