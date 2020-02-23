@@ -17,7 +17,7 @@ idNum;infoType;source;page;topic;statement
 
 ### 2. Card generation
 
-- Create card jpegs with card generation script
+- Create card jpegs with [card generation script](csv2card.py)
 - Use your printer to generate note cards from the images (A6 format works best).
 
 ### 3. Card clustering
