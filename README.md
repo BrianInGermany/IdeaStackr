@@ -55,7 +55,7 @@ Record your ideas digitally and then print out idea cards you can cluster into s
 ### 3. Card clustering
 
 - Create a coordinate system on your desk with 1, 2, 3, 4 on one axis and A, B, C, D, E on the other. Make it big enough to put one idea card in each cell.
-- Cluster similar idea cards together. Once two or three cards are in one stack, name the stack. Write down its name on this chart ([pdf link](.\exampleImages\categoryTable.pdf)):
+- Cluster similar idea cards together. Once two or three cards are in one stack, name the stack. Write down its name on this chart (<a href=".\exampleImages\categoryTable.pdf">pdf link</a>):
 
   [<img src=".\exampleImages\categoryTable.png" alt="chartPicture" width="300"/>](.\exampleImages\categoryTable.pdf)
 
@@ -66,9 +66,9 @@ Record your ideas digitally and then print out idea cards you can cluster into s
 
 ### 4. Stack clustering
 
-- Once you have a set of named stacks on your table, label each stack with a post-it according to your names in the [chart](.\exampleImages\categoryTable.png).
+- Once you have a set of named stacks on your table, label each stack with a post-it according to your names in the <a href=".\exampleImages\categoryTable.pdf">chart</a>.
 - Now we're going to cluster the clusters to create a structure for our research!
-- Repeat step 3. with a blank [chart](.\exampleImages\categoryTable.png), this time clustering stacks instead of individual cards and naming these superstacks instead of the stacks.
+- Repeat step 3. with a blank <a href=".\exampleImages\categoryTable.pdf">chart</a>, this time clustering stacks instead of individual cards and naming these superstacks instead of the stacks.
 
 
 ### 5. Sequentialization
