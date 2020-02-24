@@ -89,7 +89,7 @@ Record your ideas digitally and then print out idea cards you can cluster into s
 
 The system behind IdeaStackr is called excerpting (German: *Exzerpieren*)
 
-  [![](.\exampleImages\exzerpiren.jpg)][1]
+   <img src=".\exampleImages\exzerpiren.jpg" alt="exzerpt"/>[1]
 
 - [Definition: Exzerpieren](https://www.uni-erfurt.de/seminarfach/kurs/9/#c67025), Uni Erfurt
 - [Leitfaden zur Erstellung eines Exzerpts](https://www.uni-bielefeld.de/erziehungswissenschaft//scs/pdf/leitfaeden/studierende/exzerpt.pdf), Uni Bielefeld
