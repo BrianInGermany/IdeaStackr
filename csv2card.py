@@ -1,8 +1,10 @@
 import imgkit
-import sys, os
+import sys
+import os
 import csv
+from pathlib import Path
 
-# WIP! Does not work yet!
+
 print("I need two paths from you:")
 csvPath = input("Please enter path of CSV file:\n")
 outputDir = input("Please enter the path of an existing directory where cards can be saved:\n")
@@ -10,6 +12,8 @@ options = {
     'width':666,
         'encoding': 'UTF-8'
 }
+csvPath = Path(csvPath)
+outputDir = Path(outputDir)
 csvFile = open(csvPath, "r", encoding="utf-8")
 csvReader = csv.reader(csvFile, delimiter=";")
 
@@ -134,8 +138,9 @@ def save_img_cards(csvReader):
         
     </table>
 </html>
-"""
-                imgkit.from_string(htmlTemplate, outputDir + "\\" + str(idNum) + ".jpg", options=options)
+"""             
+                cardPath = Path.joinpath(outputDir, str(idNum) + ".jpg")
+                imgkit.from_string(htmlTemplate, cardPath, options=options)
                 newCards += 1
     print(str(newCards) + " new cards saved to jpg.")
 
